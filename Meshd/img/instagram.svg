@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>instagram</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="user-browse-events" transform="translate(-956.000000, -582.000000)" fill="#60AEF0">
+            <g id="instagram" transform="translate(956.000000, 582.000000)">
+                <g id="Layer_1">
+                    <path d="M3,22 L19,22 C20.6572847,22 22,20.6572847 22,19 L22,3 C22,1.34271525 20.6572847,0 19,0 L3,0 C1.34271525,0 0,1.34271525 0,3 L0,19 C0,20.6572847 1.34271525,22 3,22 L3,22 Z M3,20 C2.44728475,20 2,19.5527153 2,19 L2,3 C2,2.44728475 2.44728475,2 3,2 L19,2 C19.5527153,2 20,2.44728475 20,3 L20,19 C20,19.5527153 19.5527153,20 19,20 L3,20 L3,20 Z" id="Shape" fill-rule="nonzero"></path>
+                    <path d="M11,17 C14.3137085,17 17,14.3137085 17,11 C17,7.6862915 14.3137085,5 11,5 C7.6862915,5 5,7.6862915 5,11 C5,14.3137085 7.6862915,17 11,17 L11,17 Z M11,15 C8.790861,15 7,13.209139 7,11 C7,8.790861 8.790861,7 11,7 C13.209139,7 15,8.790861 15,11 C15,13.209139 13.209139,15 11,15 L11,15 Z" id="Oval" fill-rule="nonzero"></path>
+                    <path d="M1,1 L1,9 L6.349,9 C7.174,6.671 8.389,6 11,6 C13.611,6 14.827,6.671 15.651,9 L21,9 L21,1 L1,1 L1,1 Z M19,6 L16,6 L16,3 L19,3 L19,6 L19,6 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

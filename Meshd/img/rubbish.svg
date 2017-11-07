@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="19px" viewBox="0 0 14 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icons8-trash@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="admin-venues" transform="translate(-1293.000000, -142.000000)" fill-rule="nonzero" fill="#000000">
+            <g id="table" transform="translate(179.000000, 120.000000)">
+                <g id="icons8-trash" transform="translate(1114.000000, 22.000000)">
+                    <path d="M5,0 L4,1 L0,1 L0,3 L14,3 L14,1 L10,1 L9,0 L5,0 Z M1,4 L1,17 C1,18.101563 1.898438,19 3,19 L11,19 C12.101563,19 13,18.101563 13,17 L13,4 L1,4 Z M4,7 L6,7 L6,16 L4,16 L4,7 Z M8,7 L10,7 L10,16 L8,16 L8,7 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

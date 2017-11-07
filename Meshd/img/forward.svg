@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="10px" viewBox="0 0 11 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icons8-forward_arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="list-view" transform="translate(-579.000000, -162.000000)" fill-rule="nonzero" fill="#006DC9">
+            <g id="Group" transform="translate(579.000000, 158.000000)">
+                <g id="icons8-forward_arrow" transform="translate(0.000000, 4.000000)">
+                    <path d="M7.08450704,0 L6.43661972,0.661870504 L9.26760563,3.55395683 L3.15492958,3.55395683 C1.41725341,3.55395683 0,5.00179845 0,6.77697842 C0,8.55215839 1.41725341,10 3.15492958,10 L3.15492958,9.07913669 C1.9049298,9.07913669 0.901408451,8.05395706 0.901408451,6.77697842 C0.901408451,5.50000023 1.9049298,4.47482014 3.15492958,4.47482014 L9.26760563,4.47482014 L6.43661972,7.36690647 L7.08450704,8.02877698 L10.6901408,4.34532374 L11,4.01438849 L10.6901408,3.68345324 L7.08450704,0 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
