@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -7,20 +7,27 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Meshd</title>
 
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
     <!-- Font-Awsome -->
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- Custom -->
     <link href="../css/style.css" rel="stylesheet">
+      <link href="../css/bootstrap-timepicker.min.css" rel="stylesheet">
     <link href="fonts/fonts.css" rel="stylesheet">
 
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- Latest compiled and minified CSS -->
+
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+
+
+  
   </head>
   <body>
 
@@ -78,12 +85,19 @@
             <li>
               <input type="text" name="date" placeholder="Date:(MM/DD/YY)">
             </li>
-            <li>
-              <input type="text" name="time" placeholder="start time(HH:MM)">
-            </li>
-            <li>
-              <input type="text" name="end-time" placeholder="end time(HH:MM)">
-            </li>
+            
+		<li class="input-group bootstrap-timepicker timepicker">
+			
+            <input id="timepicker1" type="text" class="form-control input-small">
+            <span class="input-group-addon"><i class="glyphicon glyphicon-time"></i></span>
+        </li>
+
+
+
+        <li class="input-group bootstrap-timepicker timepicker">
+            <input id="timepicker2" type="text" class="form-control input-small" >
+            <span class="input-group-addon"><i class="glyphicon glyphicon-time"></i></span>
+        </li>
             <li>
               <input type="text" name="url" placeholder="WWW.wework.com/events">
             </li>
@@ -119,11 +133,21 @@
     </div>
   </div>
      
-
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+      <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
+
     <script src="../js/bootstrap.min.js"></script>
     <script src="../js/custom.js"></script>
+       <script src="../js/bootstrap-timepicker.min.js"></script>
+
+
+      <script type="text/javascript">
+            $('#timepicker1').timepicker();
+        </script>
+       <script type="text/javascript">
+            $('#timepicker2').timepicker();
+        </script>
+
   </body>
 </html>
